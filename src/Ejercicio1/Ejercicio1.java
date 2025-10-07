@@ -6,6 +6,9 @@ public class Ejercicio1 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Estoy en la rama secundaria 1");
+		
+		
+		System.out.println("COnflicto resuelto");
 	}
 
 }
